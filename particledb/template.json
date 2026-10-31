@@ -1,0 +1,11 @@
+{
+  "system": "ParticleDB 1.1.19-rc.16",
+  "proprietary": "yes",
+  "storage": "native",
+  "hardware": "cpu",
+  "tuned": "no",
+  "tags": [
+    "Rust",
+    "column-oriented"
+  ]
+}
